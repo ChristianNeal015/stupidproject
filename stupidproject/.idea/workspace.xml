@@ -2,17 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="25a1c456-87b3-4f36-a6fb-d987807d4224" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/../LongHomework/.idea/.name" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LongHomework/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LongHomework/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LongHomework/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stupidproject.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/target/classes/Main.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PhraseOMatic/src/main/java/BigPhrase/PhraseOMagic.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../NewThing/src/main/java/Package/NewCLass.java" beforeDir="false" afterPath="$PROJECT_DIR$/../NewThing/src/main/java/Package/NewCLass.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -32,6 +24,9 @@
   </component>
   <component name="ProjectId" id="1QQ7I0mrzfCdbgA7CKsixlnt4Yp" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
